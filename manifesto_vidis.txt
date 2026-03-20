@@ -1,0 +1,11 @@
+--------------------------------------
+Open Source Manifesto
+By vidis on 20 March 2026
+--------------------------------------
+
+I believe in the power of open-source software.
+Using tools like Python, I experience the true meaning of Creativity.
+I aspire to build A data analytics dashboard and share it freely with the world.
+Knowledge should be open, collaborative, and accessible to everyone.
+
+This is my contribution to the open-source community.
